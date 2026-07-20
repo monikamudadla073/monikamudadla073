@@ -22,7 +22,7 @@
 
 I'm Monika, a **3rd Year CSE Student** passionate about **Python, SQL, and AI & ML**. I love turning what I learn into real projects, and I'm always looking for ways to grow a little more every day.
 
-- 💻 Core interests: **Python | SQL | AI & ML**
+- 💻 Core interests: **Python | SQL | AI & ML **
 - 📚 Currently learning: **DSA, NumPy, Pandas, APIs, Git**
 - 🚀 Building projects and growing every day
 - 🌱 Open to internship opportunities
