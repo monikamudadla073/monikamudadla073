@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Monika, a **3rd Year CSE Student** passionate about **Python, SQL, and AI & ML**. I love turning what I learn into real projects, and I'm always looking for ways to grow a little more every day. Alongside coding, I create content to help others learn — sharing what I discover on YouTube, Medium, and Instagram.
+I'm Monika, a **3rd Year CSE Student** passionate about **Python, SQL, and AI & ML**. I love turning what I learn into real projects, and I'm always looking for ways to grow a little more every day.
 
 - 💻 Core interests: **Python | SQL | AI & ML**
 - 📚 Currently learning: **DSA, NumPy, Pandas, APIs, Git**
@@ -58,11 +58,8 @@ I'm Monika, a **3rd Year CSE Student** passionate about **Python, SQL, and AI & 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="REPLACE_WITH_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-REPLACE__SUBS%20Subs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="REPLACE_WITH_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-REPLACE__FOLLOWERS%20Followers-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="REPLACE_WITH_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-REPLACE__FOLLOWERS%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="REPLACE_WITH_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="REPLACE_WITH_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Monikam9708"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/monika-mudadla-68a877363"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -93,3 +90,4 @@ I'm Monika, a **3rd Year CSE Student** passionate about **Python, SQL, and AI & 
 I'm a student building my skills in Python, SQL, and AI/ML — always open to internship opportunities, collaborations, or just a good tech conversation. Reach out on any platform above!
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you visit often is always appreciated.</i></p>
+
